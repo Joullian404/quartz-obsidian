@@ -1,0 +1,997 @@
+Com certeza! Aqui está a prova formatada para o Obsidian, com o gabarito oculto abaixo de cada questão. Você pode copiar e colar este texto diretamente em uma nota no Obsidian.
+
+Ao clicar na seta ao lado de "Gabarito", a resposta correta será revelada.
+
+---
+
+### 1ª QUESTÃO
+> (FESAR) Paciente vítima de colisão automobilística envolvendo carro e motocicleta, sem evidências de hemorragia externa significativa. Ao exame físico, apresentava sinais de instabilidade torácica à direita, próximo ao esterno, com dor local e leve limitação respiratória. A saturação de oxigênio encontrava-se inicialmente satisfatória, sem turgência jugular ou desvio de traqueia. Observou-se taquipneia discreta e Glasgow 15. Após instituição de oxigênio suplementar e analgesia, houve melhora do quadro álgico e respiratório. Entretanto, cerca de 20 minutos após, o paciente evoluiu com piora respiratória súbita, queda da saturação de oxigênio e rebaixamento do nível de consciência. Diante dessa evolução, foi realizada intubação orotraqueal, sem melhora da oximetria, evoluiu para parada cardiorrespiratória, sendo iniciadas manobras de reanimação cardiopulmonar. Durante a reanimação, foi observado ausência de murmúrio vesicular à direita, hipertimpanismo à percussão e traqueia desviada contra-lateral. Realizada descompressão com agulha, sem sucesso, evoluindo à óbito.
+> 
+> Baseado no caso apresentado, marque a sequência correta para preenchimento da declaração de óbito.
+
+**Alternativas:**
+- [ ] (A) Insuficiência respiratória aguda – pneumotórax aberto – tórax instável.
+- [ ] (B) Choque cardiogênico – arritmia cardíaca – contusão cardíaca – tórax instável.
+- [ ] (C) Choque cardiogênico – tamponamento cardíaco – contusão cardíaca – tórax instável.
+- [ ] (D) Insuficiência respiratória aguda – pneumotórax hipertensivo – tórax instável.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 2ª QUESTÃO
+> (FASA VIC) Um homem de 45 anos é trazido ao serviço de emergência por familiares devido a episódios frequentes de embriaguez, perda de controle sobre o consumo de álcool e sintomas de abstinência, como tremores e ansiedade, quando não consome a substância. Ele relata que começou a beber socialmente, mas, ao longo dos anos, sua necessidade de álcool aumentou, e agora sente que não consegue passar um dia sem beber. Além disso, menciona que já perdeu o emprego devido ao seu consumo excessivo, mas continua com o vício, ignorando as consequências negativas.
+> 
+> Qual das alternativas abaixo melhor descreve os critérios diagnósticos para dependência alcoolica deste paciente?
+
+**Alternativas:**
+- [ ] (A) O paciente apresenta sintomas de abstinência, mas não houve perda de controle sobre o consumo, portanto não pode ser diagnosticado com dependência.
+- [ ] (B) A dependência alcoólica é caracterizada apenas pela presença de tolerância ao álcool, independentemente dos outros sintomas.
+- [ ] (C) O uso continuado de álcool apesar de problemas relacionados ao consumo não é um critério relevante para o diagnóstico de dependência alcoólica.
+- [ ] (D) A presença de tolerância, sintomas de abstinência e perda de controle sobre o consumo confirmam o diagnóstico de dependência alcoólica, conforme descrito no DSM-5.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 3ª QUESTÃO
+> (IESVAP) Um paciente adulto é levado ao pronto-socorro após uma crise convulsiva generalizada que durou cerca de 5 minutos. O paciente apresenta inconsciência, respiração irregular e cianose. O histórico médico revela episódios anteriores de crises convulsivas, mas sem febre associada. Durante a avaliação, a equipe médica observa que o paciente não recupera a consciência entre as crises, que continuam a ocorrer.
+> 
+> Qual é o diagnóstico mais provável e a conduta inicial adequada para garantir a perviedade da via aérea?
+
+**Alternativas:**
+- [ ] (A) Convulsão febril; administração de anticonvulsivantes intravenosos e suporte ventilatório.
+- [ ] (B) Estado de mal convulsivo; administração de benzodiazepínicos intravenosos e manejo das vias aéreas com intubação se necessário.
+- [ ] (C) Convulsão febril; administração de antipiréticos e monitoramento da temperatura.
+- [ ] (D) Epilepsia; administração de anticonvulsivantes orais e observação.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 4ª QUESTÃO
+> (UNIDEP) Mulher de 40 anos, parda, passa em consulta ambulatorial referindo episódios de dor de forte intensidade, pulsátil com duração de cerca de 12 horas, unilateral, com alteração de lado entre as crises. Apresenta-se sempre associada à quadro de náuseas, vômitos e fotofobia. Refere que a dor piora com realização de atividades físicas. Relata ainda que as crises tem vários anos de evolução e que sua mãe tem sintomas parecidos. Exame físico: sinais de Kernig e Brudzinski negativos.
+> 
+> Qual dos seguintes diagnósticos é o mais condizente com o quadro clínico apresentado?
+
+**Alternativas:**
+- [ ] (A) Cefaleia secundária
+- [ ] (B) Cefaleia tensional
+- [ ] (C) Cefaleia em salvas
+- [ ] (D) Migrânea
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 5ª QUESTÃO
+> (UNIPTAN) Pré-escolar de 4 anos é atendida no pronto-atendimento com história de febre alta, vômitos e prostração. Ao exame físico apresenta sonolência e sinais de irritação meníngea. O médico assistente suspeita de meningite bacteriana e solicita uma punção lombar para colheita e exame do líquido cefalorraquidiano.
+> 
+> Assinale a alternativa que apresenta a conduta inicial para esse paciente.
+
+**Alternativas:**
+- [ ] (A) Iniciar corticoides orais.
+- [ ] (B) Aguardar resultado de cultura para escolha do antibiótico.
+- [ ] (C) Iniciar antibióticos orais empíricos.
+- [ ] (D) Iniciar antibióticos intravenosos empíricos.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 6ª QUESTÃO
+> (AFYA ABAETETUBA) Primigesta, 25 anos, veio para consulta na unidade básica de saúde (UBS), hoje com 10 semanas de gestação, calculada pela data da última menstruação e confirmada pelo ultrassom. Durante a consulta, queixou-se de dor abdominal e sangramento vaginal discreto após relação sexual. Ao exame, apresenta-se estável hemodinamicamente. Abdome normotenso, indolor, sem sinais de peritonite. Ao toque, colo posterior, fechado, sangramento discreto em dedo de luva.
+> 
+> Qual das alternativas seguintes apresenta a conduta mais adequada?
+
+**Alternativas:**
+- [ ] (A) Tratamento com misoprostol.
+- [ ] (B) Solicitar ultrassonografia.
+- [ ] (C) Tratamento com progesterona.
+- [ ] (D) Repouso absoluto.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 7ª QUESTÃO
+> (UNISL PVH) Escolar de 6 anos é levada ao hospital com febre alta, vômitos, cefaleia intensa e rigidez de nuca. Os pais relatam que a febre começou há dois dias e, desde então, a criança tem apresentado sonolência, além de episódios de irritabilidade. A criança completou o calendário vacinal recomendado para a idade, incluindo as vacinas contra Haemophilus influenzae tipo B, pneumococo e meningococo С. O exame do líquido cefalorraquidiano (LCR) revela os seguintes resultados:
+> * Leucócitos: 700 células/mm³, com 95% de linfócitos (Referência: até 5 células/mm³ e Linfócitos acima de 80%)
+> * Proteínas: 80 mg/dL (Referência: 15-45 mg/dL)
+> * Glicose no LCR: 70 mg/dL (Referência: LCR com aproximadamente 60-80% da glicemia sanguínea)
+> * Glicose sanguínea: 100 mg/dL (70 a 100 mg/dL.)
+> 
+> Com base no quadro clínico, no exame do LCR e no estado vacinal, qual é a causa mais provável da meningite desta criança?
+
+**Alternativas:**
+- [ ] (A) Viral.
+- [ ] (B) Tuberculosa.
+- [ ] (C) Meningocócica.
+- [ ] (D) Pneumocócica.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 8ª QUESTÃO
+> (UNISL PORTO VELHO) Uma gestante de 28 anos, com 34 semanas de gestação, estava dirigindo quando foi atingida lateralmente por outro veículo em alta velocidade. Após o impacto, ela se queixa de dor abdominal intensa e apresenta sangramento vaginal leve. Ao ser atendida pela equipe de resgate no cenário pré-hospitalar, ela está consciente, mas demonstra sinais de taquicardia (130 bpm), hipotensão leve (PA 100/60 mmHg) e palidez cutânea. A equipe observa que a paciente está ansiosa e agitada, fatores que indicam um possível trauma significativo. Considerando o estado da gestante e o desenvolvimento do feto, a equipe deve decidir as ações iniciais mais adequadas para garantir a segurança de ambos.
+> 
+> Indique qual deve ser a conduta prioritária da equipe de resgate neste caso.
+
+**Alternativas:**
+- [ ] (A) Realizar a reanimação materna imediata e preparar a gestante para uma cesariana de emergência pré-hospitalar, visando o parto imediato, considerando o risco de hipoxemia fetal e o potencial agravamento do quadro materno.
+- [ ] (B) Imobilizar a coluna cervical e estabilizar a gestante em decúbito lateral esquerdo, sem necessidade de monitoramento fetal no cenário pré-hospitalar, para evitar qualquer intervenção adicional que possa causar riscos ao feto, aguardando transporte para o hospital.
+- [ ] (C) Estabilizar a gestante por meio de administração de fluidos intravenosos e monitorar os sinais vitais maternos e fetais, com avaliação para possível descolamento prematuro de placenta, priorizando a mãe, que é a principal fonte de oxigenação e circulação para o feto.
+- [ ] (D) Iniciar o monitoramento exclusivo dos sinais vitais do feto e administrar tocolíticos para evitar o trabalho de parto prematuro, focando na estabilização do feto, pois o nascimento prematuro pode trazer consequências graves.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 9ª QUESTÃO
+> (UNITPAC) Mulher de 40 anos deu entrada no Pronto Atendimento trazida pelo corpo de bombeiros que relata a ter resgatado de incêndio há 1 hora. Apresentava ferida de queimadura de aspecto esbranquiçado e indolor nos membros superiores abrangendo 9% da superfície corporal, escarro carbonáceo, rouquidão.
+> 
+> A prioridade deste atendimento será:
+
+**Alternativas:**
+- [x] (A) Intubação e oxigênio a 100%.
+- [ ] (B) Curativo com Nitrato de prata.
+- [ ] (C) Salbutamol 100 mcg 5 puff cada 20 minutos e oxigênio a 10 litros.
+- [ ] (D) Hidratação e antibioticoterapia.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 10ª QUESTÃO
+> (UNISL PVH) Escolar, 6 anos, masculino, é levado ao pronto-socorro com histórico de febre intermitente há mais de três semanas, associada a cansaço, falta de apetite e perda de peso. A mãe também relata que a criança apresentou dor óssea, especialmente nas pernas, manchas arroxeadas na pele e sangramento gengival. Ao exame físico, verifica-se palidez acentuada, presença de vários linfonodos cervicais e axilares aumentados, com até 3 cm de tamanho, além de hepatoesplenomegalia. Entre os exames laboratoriais realizados, destacam-se: Hemoglobina: 8,5 g/dL (anemia normocítica normocrômica); Leucócitos: 48.000/mm³, com 70% de blastos; Plaquetas: 25.000/mm³ (trombocitopenia).
+> 
+> Qual é o exame indicado para confirmar o diagnóstico deste paciente?
+
+**Alternativas:**
+- [ ] (A) Ressonância magnética cervical e torácica.
+- [ ] (B) Biópsia de linfonodo cervical ou axilar.
+- [x] (C) Aspirado medula óssea ou mielograma.
+- [ ] (D) Hemocultura, urocultura e painel viral.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 11ª QUESTÃO
+> (AFYA ABAETETUBA) Homem, 72 anos, bancário aposentado, comparece para consulta acompanhado da esposa. Esposa relata esquecimento há 01 ano, com piora progressiva e desde então parou de controlar as finanças e fazer compras sozinho. Nega alterações do humor. Apresenta apatia e irritabilidade leves. Possui como antecedentes pessoais diabetes mellitus, em uso de metformina 1700mg/dia, nega infarto agudo do miocárdio ou acidente vascular cerebral prévios. Nega tabagismo e etilismo. Exame físico e neurológico sem alterações. Mini Exame do Estado Mental: 20/30 (Valor de referência para a escolaridade 26). Teste do relógio: 2/5 (Valor de referência 5/5). Realizados os seguintes exames com resultados normais: hemograma completo, eletrólitos, glicemia, provas de função renal e tireoidiana, nível de vitamina B12, VDRL, anti-HIV e TC de crânio.
+> 
+> Sobre o caso apresentado, analise as assertivas abaixo:
+> I. A TC normal exclui o diagnóstico.
+> II. Nos estágios intermediários, os pacientes tornam-se rígidos, mudos, incontinentes e acamados e necessitam de ajuda para alimentar-se, vestir-se e fazer a sua higiene.
+> III. O paciente apresenta o padrão de apresentação clínica mais característico da doença.
+> IV. O eletrencefalograma (EEG) deve ser solicitado nesse caso.
+> 
+> É correto o que se afirma apenas em:
+
+**Alternativas:**
+- [ ] (A) II.
+- [ ] (B) I.
+- [ ] (C) IV.
+- [x] (D) III.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 12ª QUESTÃO
+> (AFYA IPATINGA) Paciente sexo feminino, 25 anos, G2P1A0, que está com 7 semanas de gestação, pela data da última menstruação. Procurou atendimento na Unidade Básica de Saúde (UBS) por dor abdominal em cólica e sangramento vaginal importante. Ao exame físico: PA 80 x 50mmHg, FR 22irpm, FC 110bpm. Abdome com dor à palpação. Colo uterino pérvio com sangramento abundante.
+> 
+> Considerando o quadro clínico, qual a principal hipótese diagnóstica?
+
+**Alternativas:**
+- [ ] (A) Aborto não complicado.
+- [x] (B) Aborto complicado por hemorragia.
+- [ ] (C) Ameaça de aborto.
+- [ ] (D) Aborto complicado por infecção.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 13ª QUESTÃO
+> (UNIDEP) Carlos, um trabalhador de 40 anos, atua em uma indústria química e procura atendimento médico na Unidade Básica de Saúde (UBS) com sintomas de tosse persistente, falta de ar e irritação nos olhos. Após uma avaliação detalhada, o médico suspeita de uma intoxicação por exposição a produtos químicos no ambiente de trabalho. Carlos menciona que vários colegas de trabalho também apresentaram sintomas semelhantes, mas nenhum deles procurou atendimento médico. A empresa não possui um programa de saúde ocupacional estruturado.
+> 
+> Assinale a alternativa que indica uma atuação correta do médico da UBS, em relação as medidas de prevenção diante do caso de acidente de trabalho.
+
+**Alternativas:**
+- [ ] (A) O médico deve prescrever medicamentos sintomáticos para Carlos e orientá-lo a utilizar equipamentos de proteção individual (EPIs), sem necessidade de notificar o caso.
+- [ ] (B) O médico deve encaminhar Carlos para um pneumologista e recomendar afastamento temporário do trabalho, sem necessidade de realizar notificações às autoridades de saúde.
+- [ ] (C) O médico deve recomendar que Carlos busque um novo emprego para evitar a exposição aos produtos químicos, realizando a notificação ao sindicato dos trabalhadores.
+- [x] (D) O médico deve notificar o caso de Carlos como uma suspeita de doença relacionada ao trabalho e educar o trabalhador sobre a importância do uso de EPIs.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 14ª QUESTÃO
+> (AFYA ITABUNA) Idoso, 80 anos, comparece ao ambulatório acompanhado de sua filha, que relata um declínio progressivo na memória do pai no último ano. Ele tem dificuldade em lembrar eventos recentes e está desorientado em relação ao tempo. Além disso, apresenta dificuldades para realizar tarefas cotidianas, como manejar o dinheiro e tomar os medicamentos de forma independente. Ambos negam alteração do comportamento. Após a avaliação clínica, ele é diagnosticado com demência de Alzheimer em estágio leve.
+> 
+> Qual é o manejo inicial farmacológico mais adequado para o idoso?
+
+**Alternativas:**
+- [ ] (A) Introduzir memantina como primeira escolha.
+- [ ] (B) Iniciar tratamento com antipsicótico atípico, como risperidona.
+- [x] (C) Iniciar um inibidor da colinesterase, como donepezila.
+- [ ] (D) Iniciar benzodiazepínico, como diazepam.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 15ª QUESTÃO
+> (UNISL PVH) Escolar, 6 anos, masculino, é levado ao pronto-socorro com histórico de febre intermitente há mais de três semanas, associada a cansaço, falta de apetite e perda de peso. A mãe também relata que a criança apresentou dor óssea, especialmente nas pernas, manchas arroxeadas na pele e sangramento gengival. Ao exame físico, verifica-se palidez acentuada, presença de vários linfonodos cervicais e axilares aumentados, com até 3 cm de tamanho, além de hepatoesplenomegalia. Entre os exames laboratoriais realizados, destacam-se: Hemoglobina: 8,5 g/dL (anemia normocítica normocrômica); Leucócitos: 48.000/mm³, com 70% de blastos; Plaquetas: 25.000/mm³ (trombocitopenia).
+> 
+> Qual é o exame indicado para confirmar o diagnóstico deste paciente?
+
+**Alternativas:**
+- [ ] (A) Ressonância magnética cervical e torácica.
+- [ ] (B) Biópsia de linfonodo cervical ou axilar.
+- [ ] (C) Aspirado medula óssea ou mielograma.
+- [ ] (D) Hemocultura, urocultura e painel viral.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 16ª QUESTÃO
+> (AFYA IPATINGA) Você está atendendo um recém-nascido de 15 dias de vida, nascido a termo, sem intercorrências no período neonatal imediato. A mãe relata que o bebê tem se mostrado progressivamente mais amarelado desde o 10º dia de vida. Ao exame físico, observa-se icterícia intensa, especialmente em região abdominal e escleras, com coloração amarelada predominante, sem sinais de desidratação. O abdome está levemente distendido, com fígado palpável a 4 cm do rebordo costal direito, de consistência endurecida, e ausência de esplenomegalia. O recém-nascido mantém-se ativo, com alimentação preservada. Os exames laboratoriais revelam bilirrubina total de 10 mg/dL, sendo bilirrubina direta de 5,5 mg/dL. Realizada ecografia abdominal que evidenciou espessamento das vias biliares e ausência de vesícula biliar.
+> 
+> Diante deste quadro clínico, qual é o diagnóstico mais provável e a conduta inicial recomendada para esse recém-nascido?
+
+**Alternativas:**
+- [ ] (A) Síndrome de Gilbert - Acompanhamento clínico com medidas de suporte.
+- [ ] (B) Síndrome de Crigler Najjar tipo I- Inicio de fototerapia e avaliar exsanguíneotransfusão.
+- [ ] (C) Atresia de vias biliares - Encaminhamento urgente para avaliação cirúrgica.
+- [ ] (D) Colestase intra-hepática - Início de fototerapia e acompanhamento ambulatorial.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 17ª QUESTÃO
+> (AFYA SANTA INÊS) Uma mãe chega ao pronto-socorro com seu filho de 18 meses no colo, em desespero. A criança está tendo uma convulsão que começou há cerca de cinco minutos. A mãe relata que ele estava com sintomas de infecção respiratória (tosse e coriza), associados a febre de 39ºC há dois dias. A mãe nega alterações neurológicas prévias e afirma que é a primeira vez que ele tem uma convulsão. Os médicos avaliam a criança e observam que a convulsão é generalizada tônico-clônica. Após cinco minutos, a equipe consegue controlar a crise convulsiva com medicação.
+> 
+> Qual é o diagnóstico mais provável para a condição da criança?
+
+**Alternativas:**
+- [x] (A) Convulsão febril simples, já que a criança estava com febre alta e a convulsão foi generalizada.
+- [ ] (B) Epilepsia pediátrica, uma vez que a criança apresentou uma convulsão.
+- [ ] (C) Convulsão febril complexa, pois a convulsão foi prolongada e a criança tem um histórico de febre.
+- [ ] (D) Convulsão não febril, causada por um problema neurológico subjacente.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 18ª QUESTÃO
+> (UNITPAC) Homem, 52 anos, etilista crônico, consumindo cerca de 1 litro de destilado diariamente há 10 anos, é admitido 24 horas após a última ingestão de álcool. Inicia quadro de irritabilidade, insônia, tremores finos, sudorese intensa, taquicardia (120 bpm), falta de atenção, mal-estar generalizado. Diagnóstico de síndrome de abstinência alcoólica é estabelecido, e ele recebe prescrição de diazepam em esquema de dose progressiva e hidratação com soro glicosado. Após três dias, evolui com desorientação, fala e pensamento desorganizados, além de alucinações auditivas e visuais esporádicas. A dose de diazepam é ajustada, mas no sexto dia apresenta tremores grosseiros e alucinações visuais atemorizantes, descrevendo "insetos na parede". Ainda não há nistagmo, oftalmoplegia, ou outras anormalidades oftálmicas, nem ataxia. Alterna momentos de lucidez e confusão mental, passando ainda por períodos em que recobre a consciência e consegue ter discurso compreensível e ideias organizadas. A equipe monitora a resposta ao tratamento sedativo e de suporte contínuo.
+> 
+> Sabendo que, inicialmente houve erro no manejo clínico deste paciente à admissão, qual seria a abordagem terapêutica inicial mais apropriada neste momento?
+
+**Alternativas:**
+- [x] (A) Administrar tiamina imediatamente para prevenir a progressão para Síndrome de Wernicke/Korsakoff, que pode resultar em danos neurológicos permanentes.
+- [ ] (B) Iniciar tratamento com antiepilépticos para prevenir convulsões associadas à abstinência alcoólica e observar a melhora dos sintomas cognitivos.
+- [ ] (C) Tratar a confusão mental com antipsicóticos, além dos benzodiazepínicos, e observar a evolução dos sintomas motores.
+- [ ] (D) Suspender imediatamente o uso de álcool e iniciar psicoterapia para prevenir o avanço da demência alcoólica.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 19ª QUESTÃO
+> (AFYA PALMAS) Escolar, 7 anos, masculino, é trazido à unidade pediátrica por sua mãe, que relata que a criança apresenta febre persistente que começou há aproximadamente duas semanas. A febre é alta, com picos que chegam a 39°C e que ocorrem regularmente. Nos últimos dias, ele tem apresentado mal-estar constante, fadiga acentuada e dificuldade em realizar atividades diárias normais, como brincar com amigos e ir à escola. Além disso, a mãe observa que a criança perdeu aproximadamente 3 kg e tem se queixado de dores nas pernas e nos braços, e frequentemente se sente suado à noite, acordando com roupas molhadas. Ao examinar a criança, o médico nota palidez significativa na pele e nas mucosas, linfadenopatia cervical bilateral, com linfonodos aumentados e sensíveis palpáveis na região do pescoço, ausência de erupções cutâneas ou qualquer evidência de infecção respiratória ou gastrointestinal aguda.
+> 
+> Quais exames complementares devem ser solicitados para investigar o quadro clínico desta criança?
+
+**Alternativas:**
+- [x] (A) Hemograma completo, mielograma e ultrassonografia abdominal.
+- [ ] (B) Exame de urina, hemograma e tomografia computadorizada.
+- [ ] (C) Tomografia computadorizada, hemograma e biópsia de linfonodo.
+- [ ] (D) Ressonância magnética, cintilografia óssea e hemocultura.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 20ª QUESTÃO
+> (UNISL PVH) Mulher, 60 anos, obesa, apresenta queixa de dor crônica nos joelhos há 2 anos, principalmente ao caminhar e ao subir escadas. Ela relata rigidez articular matinal que dura cerca de 10 minutos, com piora da dor ao final do dia, o que tem limitado suas atividades diárias. Ao exame físico, observa-se crepitação ao movimento dos joelhos, leve aumento de volume articular sem sinais de inflamação importante (como eritema ou calor local), e sensibilidade difusa à palpação periarticular, especialmente nas margens do joelho. A força muscular está preservada, e não há sinais de fraqueza ou atrofia. Não se observa instabilidade articular ou derrame significativo, e os testes de estabilidade ligamentar são normais. A amplitude de movimento é levemente reduzida, mas não há bloqueio articular. Radiografia do joelho mostra estreitamento do espaço articular, presença de osteófitos nas margens articulares e esclerose subcondral, sugerindo desgaste crônico da articulação. Ela não relata febre, perda de peso, envolvimento de outras articulações, nem episódios de inflamação aguda nas articulações afetadas. Não há história de trauma recente, lesões de pele sobre as articulações ou sintomas sugestivos de doenças sistêmicas.
+> 
+> Qual seria o plano terapêutico inicial mais adequado para essa paciente?
+
+**Alternativas:**
+- [ ] (A) Prescrever glucosamina e condroitina, iniciar dieta rica em proteínas e atividade física intensa.
+- [x] (B) Iniciar anti-inflamatório não esteroidal (AINE) oral; recomendar fisioterapia e perda de peso.
+- [ ] (C) Iniciar corticosteroide intra-articular, orientar repouso e prescrever opioides para a dor crônica.
+- [ ] (D) Realizar cirurgia de prótese de joelho imediatamente e prescrever anti-inflamatório tópico.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 21ª QUESTÃO
+> (AFYA PALMAS) Uma mulher de 28 anos procura um ambulatório de psiquiatria relatando episódios de humor extremo. Durante a consulta, ela descreve que, nos últimos meses, teve períodos de grande energia e euforia, nos quais se sentia confiante, capaz de realizar tarefas complexas e passou a dormir apenas 3 horas por noite sem sentir-se cansada. Esses episódios, contudo, foram seguidos de períodos de profunda tristeza, apatia e pensamentos suicidas. Ela relata dificuldade em manter relacionamentos estáveis e frequentemente se sente sozinha, alternando entre idealizar as pessoas e depois se sentir decepcionada com elas. Além disso, menciona que muitas vezes age impulsivamente, tomando decisões sem pensar nas consequências, como mudar repentinamente de emprego ou entrar em relacionamentos impulsivos.
+> 
+> Considerando o quadro clínico apresentado, qual é a hipótese diagnóstica mais apropriada?
+
+**Alternativas:**
+- [x] (A) Transtorno afetivo bipolar, caracterizado pela presença de episódios de humor contrastantes (mania e depressão) e impulsividade.
+- [ ] (B) Transtorno de personalidade borderline, caracterizado pela instabilidade emocional, relacionamentos intensos e comportamentos impulsivos sem episódios claros de mania.
+- [ ] (C) Transtorno depressivo maior com características de ciclotimia, visto que a paciente alterna entre episódios de humor elevado e depressão sem atingir critérios completos para mania.
+- [ ] (D) Transtorno de ansiedade generalizada, devido à instabilidade emocional e à impulsividade, indicando um padrão de comportamento associado à ansiedade.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 22ª QUESTÃO
+> (AFYA PARAÍBA) Homem de 32 anos, chega ao pronto-atendimento com queixa de dor e inchaço no tornozelo direito, após uma torção durante uma partida de futebol. Ele relata que a lesão ocorreu ao pisar em falso, com o pé virado para dentro. Desde o evento, ele sente dor ao apoiar o pé e percebeu inchaço e dificuldade para movimentar o tornozelo. No exame físico nota-se edema moderado e hematoma visível na região lateral do tornozelo, dor à palpação do ligamento talofibular anterior e calcaneofibular, limitação e dor ao tentar realizar movimentos de inversão e eversão do pé e teste de gaveta anterior com leve instabilidade, mas sem deslocamento evidente.
+
+**Alternativas:**
+- [ ] (A) Diagnóstico compatível com entorse de tornozelo grau 1 com lesão sem ruptura de ligamentos, com indicação de analgesia e/ou anti-inflamatórios sem imobilização ou gelo.
+- [ ] (B) Diagnóstico compatível com luxação de tornozelo grau 3 com lesão ligamentar, com indicação de tratamento cirúrgico a ser programado após 1 mês de imobilização.
+- [x] (C) Diagnóstico compatível com entorse de tornozelo grau 2 com lesão parcial dos ligamentos, com indicação de tratamento conservador com imobilização, gelo e medicamentos.
+- [ ] (D) Diagnóstico compatível com torção de tornozelo grau 2 com contusão dos músculos e ligamentos do tornozelo, com indicação de tratamento cirúrgico imediato.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 23ª QUESTÃO
+> (FMIT) Um homem de 50 anos é levado pelo SAMU ao pronto socorro, após vizinhos encontrarem-no caído no quintal de sua casa. O homem vive sozinho. Não há acompanhantes e a equipe do SAMU só tem a informação de que ele faz uso de grandes quantidades de álcool há muitos anos e que a família o abandonou devido a este problema. No exame inicial o homem mostra-se confuso e desorientado. Sua frequência cardíaca está elevada, está sudoreico, há sinais de desidratação e nota-se tremores em membros superiores em repouso. Num exame de triagem, sua glicemia capilar foi de 48mg/dl (70 a 100 mg/dL).
+> 
+> Quais as condutas iniciais são mais apropriadas para este paciente?
+
+**Alternativas:**
+- [ ] (A) Complexo B, clordiazepóxido intramuscular e soro fisiológico.
+- [ ] (B) Complexo B, haloperidol e glicose hipertônica.
+- [ ] (C) Tiamina via oral, diazepam intramuscular e soro fisiológico.
+- [x] (D) Tiamina intramuscular, lorazepam oral e glicose hipertônica.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 24ª QUESTÃO
+> (AFYA PARAIBA) Um recém-nascido (RN) com 48 h de vida, nascido a termo, com 38 semanas de idade gestacional e peso ao nascimento de 2800g, apresenta icterícia leve, com coloração até a zona II de Kramer, detectada com 48 h de vida. O teste de bilirrubina revela níveis que estão na zona de baixo risco na Curva de Bhutani. O RN é alimentado exclusivamente ao seio materno, mas há relato de dificuldade no aleitamento e perda de peso de 8% em relação ao peso de nascimento. O grupo sanguíneo do RN é O+, e o da mãe O+.
+> 
+> A melhor conduta para este recém-nascido é proceder com a alta:
+
+**Alternativas:**
+- [ ] (A) após a fototerapia, mesmo que os níveis de bilirrubina estejam na zona de baixo risco da Curva de Bhutani.
+- [x] (B) com recomendação de seguimento nas próximas 72 horas, devido à icterícia e dificuldade no aleitamento.
+- [ ] (C) com prescrição de fórmula infantil para suplementação, sem necessidade de reavaliação precoce.
+- [ ] (D) imediata sem necessidade de seguimento, pois os níveis de bilirrubina estão na zona de baixo risco da Curva de Bhutani.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 25ª QUESTÃO
+> (AFYA IPATINGA) Jovem de aproximadamente 20 anos, vítima de acidente motociclístico, chega à emergência apresentando perviedade de vias aéreas, múrmurio vesicular fisiológico bilateralmente, saturação de 97%, pulsos periféricos amplos, frequência cardíaca de 98 bpm, Glasgow 7 com pupilas isocóricas e fotorreagentes. Indicado via aérea definitiva pelo médico plantonista. Após realização de intubação orotraqueal assistida por drogas, verifica-se ausência de detecção de dióxido de carbono à capnografia e 90% de saturação na oximetria de pulso.
+> 
+> Analise a situação em que o paciente se encontra e determine a próxima conduta a ser adotada para o caso.
+
+**Alternativas:**
+- [x] (A) Reconhecer intubação esofágica, realizar traqueostomia e encaminhar para realização de tomografia de crânio sem contraste.
+- [ ] (B) Reconhecer intubação endotraqueal, proceder ventilação com bolsa-válvula-máscara e realizar avaliação secundária minunciosa.
+- [ ] (C) Reconhecer intubação endotraqueal, conectar ao ventilador com FiO2 de 100% e realizar tomografia de crânio sem contraste.
+- [ ] (D) Reconhecer intubação esofágica, proceder ventilação com bolsa-válvula-máscara e realizar nova tentativa de intubação com o uso de Bougie elástico.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 26ª QUESTÃO
+> (IESVAP) Um homem de 68 anos, hipertenso de longa data e em uso irregular de medicamentos, é admitido no pronto-socorro de um hospital secundário após ser encontrado em casa com rebaixamento do nível de consciência. Ao exame físico, ele apresenta Glasgow 10, pressão arterial de 210/120 mmHg, pupilas isocóricas e reagentes, e sinais de déficit motor em hemicorpo direito. A tomografia computadorizada de crânio revelou hemorragia intraparenquimatosa no núcleo lentiforme esquerdo, com efeito de massa e dilatação dos ventrículos laterais, compatível com hidrocefalia.
+> 
+> Com base no quadro clínico e nos achados de imagem, analise as seguintes afirmativas:
+> I. O paciente apresenta não apresenta no momento da admissão uma indicação de neurocirurgia. Entretanto, medidas para tratamento de hipertensão intracraniana devem ser instaladas, como: elevação de cabeceira e hiperventilação.
+> II. Diante do quadro de AVC hemorrágico com hidrocefalia, o paciente deve ser internado em Unidade de AVC ou ainda Unidade de Terapia Intensiva (UTI), onde o controle rigoroso da pressão arterial, monitorização neurológica e suporte avançado de vida podem ser implementados.
+> III. Desde que obedecidas as normas de regulação de leitos, o paciente deve ser regulado para um hospital que disponha preferencialmente de neurocirurgia e UTI.
+> 
+> É correto o que se afirma em:
+
+**Alternativas:**
+- [ ] (A) I.
+- [ ] (B) II.
+- [ ] (C) I e II.
+- [x] (D) II e III.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 27ª QUESTÃO
+> (UNIPTAN) Homem, 55 anos, comparece ao ambulatório relatando dor no joelho esquerdo ao subir ou descer escadas e ao realizar uma longa caminhada. O quadro iniciou há cerca de 1 ano. Refere rigidez matinal que dura cerca de 15 minutos. Ele nega episódios de febre, fadiga ou perda de peso. No exame físico, observa-se crepitação nas articulações dos joelhos. Não há sinais de inflamação ou edema articular significativo.
+> 
+> Qual é o diagnóstico mais provável para este paciente?
+
+**Alternativas:**
+- [x] (A) Osteoartrite.
+- [ ] (B) Gota.
+- [ ] (C) Artrite psoriásica.
+- [ ] (D) Artrite reumatoide.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 28ª QUESTÃO
+> (UNITPAC) Um adolescente de 15 anos é trazido ao consultório pelos pais que relatam que ele passa várias horas por dia realizando rituais de lavagem de mãos e verifica repetidamente se as portas e janelas estão trancadas. O paciente reconhece que esses comportamentos são excessivos, mas afirma que não consegue parar, temendo que algo ruim aconteça se não seguir esses rituais. Ele também evita interações sociais e tem dificuldade em se concentrar nos estudos.
+> 
+> Analise as seguintes afirmativas e marque a alternativa correta.
+
+**Alternativas:**
+- [ ] (A) Antipsicóticos são recomendados como terapia adjuvante em todos os casos.
+- [ ] (B) O uso de Inibidores seletivos de recaptação de serotonina (ISRS) deve ser iniciado em doses altas.
+- [ ] (C) Os antidepressivos tricíclicos são recomendados como tratamento inicial.
+- [x] (D) A terapia cognitivo-comportamental é um dos tratamentos de primeira linha.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 29ª QUESTÃO
+> (UNIDEP) Nos último 30 dias, na Unidade Básica de Saúde de Ilhota, o médico observou um aumento significativo nos casos de dengue em uma determinada comunidade. Diante dessa situação, o médico conversou com a equipe sobre a vigilância epidemiológica e a aplicação dos Sistemas de Informação em Saúde (SIS) na prática clínica. Considerando esses aspectos, analise as afirmações abaixo:
+> I. As doenças de notificação compulsória, como a dengue, devem ser registradas no SINAN, o que permite a análise epidemiológica e a implementação de medidas de controle, essenciais para a saúde pública.
+> II. O Sistema de Informação em Saúde (SIS) é responsável apenas pela coleta de dados, não contribuindo para a identificação de surtos ou a definição de políticas de saúde.
+> III. O médico tem obrigação legal de notificar os casos de dengue, ajudando a prevenir a propagação da doença e a proteção da comunidade.
+> IV. A vigilância em saúde é uma responsabilidade exclusiva das autoridades de saúde pública, isentando os médicos do monitoramento de doenças na comunidade onde atuam.
+> 
+> Está correto o que se afirma em:
+
+**Alternativas:**
+- [ ] (A) I, II, III e IV.
+- [ ] (B) I, II e III.
+- [ ] (C) II e IV.
+- [x] (D) I e III.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 30ª QUESTÃO
+> (AFYA SANTA INÊS) Uma gestante de 28 anos comparece ao pré-natal acompanhada por sua mãe. Durante a consulta, a equipe de saúde observa hematomas nos braços e uma postura retraída. Ao ser questionada, relata que sofreu uma queda, mas sua expressão facial demonstra desconforto. Dada a situação, o profissional de saúde suspeita de violência doméstica e precisa proceder com os exames para avaliar a vitalidade fetal, conforme os padrões de atendimento do Sistema Único de Saúde (SUS).
+> 
+> Quais exames são indicados para a avaliação desta paciente?
+
+**Alternativas:**
+- [x] (A) Cardiotocografia e ultrassom com Doppler para monitorar os batimentos cardíacos fetais e o fluxo sanguíneo.
+- [ ] (B) Ultrassom obstétrico e exames laboratoriais para avaliar o desenvolvimento do feto e o estado de saúde da mãe.
+- [ ] (C) Exame simples de urina e eletrocardiograma para verificar possíveis complicações renais e cardíacas.
+- [ ] (D) Ressonância magnética e tomografia computadorizada para uma análise detalhada da anatomia fetal.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 31ª QUESTÃO
+> (AFYA PALMAS) Um adolescente de 16 anos, é acompanhado pela mãe em uma consulta psiquiátrica. A mãe relata que nos últimos seis meses, começou a apresentar comportamentos estranhos. Ele se tornou excessivamente preocupado com a limpeza e a organização, realizando rituais de limpeza que consomem horas do seu dia. Sempre que ele acredita que algo está sujo, sente uma compulsão incontrolável de limpar tudo imediatamente. Os rituais afetaram significativamente sua vida social e acadêmica, levando-o a evitar sair de casa e a não completar tarefas escolares a tempo. Além disso, o adolescente refere ter dificuldades em controlar seus pensamentos, que muitas vezes são intrusivos e perturbadores. Ele sente que, se não realizar seus rituais, algo ruim pode acontecer, o que é angustiante para ele.
+> 
+> Como realizar o diagnóstico diferencial entre os diversos transtornos psiquiátricos?
+
+**Alternativas:**
+- [ ] (A) Exames de sangue, tomografia computadorizada e eletroencefalograma.
+- [ ] (B) Ressonância magnética do crânio e avaliação neuropsicológica.
+- [x] (C) Avaliação clínica detalhada e entrevista estruturada, além de questionários de autoavaliação.
+- [ ] (D) Exame físico completo e testes de função hepática e renal.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 32ª QUESTÃO
+> (AFYA SANTA INÊS) Maria, uma mulher de 50 anos, fumante há mais de 30 anos, comparece à unidade de saúde relatando tosse persistente. Após uma série de exames, é identificado um nódulo pulmonar solitário de 1,5 cm no pulmão direito, localizado no lobo superior, hipercaptante na tomografia por emissão de pósitrons (PET-CT) e com sinais de vascularização aumentada ao Doppler. O médico responsável pelo atendimento precisa decidir a melhor conduta para o caso, considerando os princípios doutrinários e organizativos do Sistema Único de Saúde (SUS).
+> 
+> Assinale a alternativa que indica a conduta mais adequada para o caso de Maria, relacionando-a com os princípios do Sistema Único de Saúde (SUS).
+
+**Alternativas:**
+- [ ] (A) Encaminhar diretamente para uma cirurgia de remoção do nódulo, considerando a necessidade de tratamento imediato e específico.
+- [ ] (B) Repetir os exames em seis meses para monitorar o crescimento do nódulo, priorizando a utilização racional de recursos e o princípio da economicidade.
+- [ ] (C) Encaminhar para um centro de referência em pneumologia, garantindo atendimento especializado e integral, conforme os princípios da integralidade e da regionalização.
+- [x] (D) Realizar biópsia do nódulo e, dependendo dos resultados, considerar a possibilidade de tratamento com quimioterapia, respeitando o princípio da equidade.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 33ª QUESTÃO
+> (UNIREDENTOR) Pré-escolar de 3 anos que vem à consulta no ambulatório de Pediatria trazido por sua mãe. Ela refere que o menino apresentou há 7 dias um quadro de febre que durou 3 dias, com odinofagia, e que fez apenas uso de analgésicos. Estava preocupada com o surgimento concomitante de um “caroço no pescoço”, levando a criança na Unidade Básica de Saúde (UBS), onde o médico solicitou os seguintes exames: Hemoglobina 13 g/dL; VCM 80; HCM 26; Leucócitos 9.500 (6.000 a 15.000 células/mm³, zero blastos); Plaquetas 250.000; PCR 1,0 (VR <1,0); LDH 150 (VR 120-300). Ao exame: afebril; linfonodo submandibular à direita, medindo cerca de 1,0 cm, móvel, indolor, não coalescente, fibroelástico, sem sinais flogísticos.
+> 
+> De acordo com o caso apresentado, podemos dizer que provavelmente trata-se de:
+
+**Alternativas:**
+- [ ] (A) linfoma.
+- [x] (B) linfonodomegalia reacional.
+- [ ] (C) abscesso.
+- [ ] (D) anemia ferropriva.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 34ª QUESTÃO
+> (FIPGUANAMBI) Homem, 20 anos, vai à Unidade Básica de Saúde (UBS), devido à quadro de prostração importante, cefaleia, vômito e febre há cerca de 24 horas. Durante o exame físico o interno de medicina coloca o paciente em decúbito dorsal e realiza a flexão passiva do pescoço o que resulta em flexão espontânea dos quadris e joelhos.
+> 
+> Identifique o sinal apresentado pelo paciente.
+
+**Alternativas:**
+- [ ] (A) Sinal de Kernig.
+- [ ] (B) Rigidez de nuca.
+- [x] (C) Sinal de Brudzinski.
+- [ ] (D) Sinal de Lasègue.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 35ª QUESTÃO
+> (UNINOVAFAPI) Em uma Unidade Básica de Saúde (UBS) no Sistema Único de Saúde (SUS), um médico se depara com um paciente portador de uma condição grave, cujo tratamento requer o uso de uma medicação que não está incluída na Relação Nacional de Medicamentos Essenciais (RENAME) ou na lista municipal de medicamentos. Considerando o benefício da medicação e a gravidade do caso, o médico prescreve o medicamento, porém, não informa ao paciente sobre a indisponibilidade do remédio pelo SUS, nem registra no prontuário a ausência dessa medicação nas listas públicas. Posteriormente, o paciente, ao descobrir que o medicamento não seria fornecido pelo SUS, judicializa o caso, buscando garantir o acesso à medicação.
+> 
+> Diante desse cenário, quanto às implicações éticas e legais relacionadas à atuação do médico, à judicialização da saúde e ao prontuário médico, analise as assertivas a seguir:
+> I. A ausência de registro no prontuário sobre a indisponibilidade do medicamento no SUS pode ser considerada uma falha ética e legal, pois compromete a transparência e o direito à informação do paciente.
+> II. A judicialização da saúde ocorre frequentemente quando há falhas no sistema de fornecimento de medicamentos essenciais, e o paciente tem direito de buscar, pela via judicial, o acesso ao medicamento.
+> III. O médico deveria ter informado o paciente sobre a indisponibilidade do medicamento pelo SUS, garantindo o direito de o paciente decidir sobre as opções terapêuticas disponíveis.
+> 
+> Está correto o que se afirma em:
+
+**Alternativas:**
+- [ ] (A) I, II e III.
+- [ ] (B) I e III.
+- [ ] (C) I e II.
+- [ ] (D) II e III.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 36ª QUESTÃO
+> (UNIREDENTOR) Idosa, tenista, aposentada, 60 anos, procura atendimento médico devido a dores articulares nos joelhos. As dores tiveram início há mais de 02 anos, evoluindo progressivamente com piora, são desencadeadas pelo movimento e dificultam a mesma a subir as escadas e levantar do sofá. Alega que já fez diversos tratamentos sem melhora. Ao exame físico nota-se crepitações em joelho esquerdo.
+> 
+> Indique qual seria a propedêutica mais adequada para o caso acima.
+
+**Alternativas:**
+- [ ] (A) Dosagem sérica de Fator reumatóide e Anti-CCP.
+- [ ] (B) Dosagem sérica de VHS e PCR
+- [x] (C) Raio-X de joelhos.
+- [ ] (D) Artrocentese com análise de Gram e cultura de material.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 37ª QUESTÃO
+> (FASA VIC) Paciente adolescente, 15 anos, vinha realizando limpeza de fogão com produto químico, quando o mesmo respingou em seu olho esquerdo. A paciente procurou imediatamente a Emergência, referindo dificuldade para abrir os olhos, devido a desconforto intenso. Ao exame físico, apresentava lesão superficial de segmento anterior (córnea e conjuntiva).
+> 
+> Diante do quadro apresentado pela paciente, assinale a alternativa correta que aborda o diagnóstico da lesão ocular e cuidados imediatos.
+
+**Alternativas:**
+- [ ] (A) Conjuntivite química; compressas de gelo, colírios anti-inflamatórios e antibióticos; atestado médico 14 dias.
+- [ ] (B) Lesão corneana com perfuração. Encaminhar para a cirurgia, para a correção de lesão e colírio antibiótico
+- [ ] (C) Crise de glaucoma agudo de ângulo fechado. Uso de hipotensor ocular, analgesia, uso de colírio antibiótico.
+- [ ] (D) Lesão ocular por substância química. Lavagem imediata e copiosa da região ocular, eritromicina oftálmica e analgesia.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 38ª QUESTÃO
+> (FESAR) Um agente comunitário de saúde de 42 anos, que trabalha na Atenção Primária à Saúde (APS), é atendido na Unidade Básica de Saúde (UBS) após sofrer um acidente de trabalho enquanto estava no campo realizando visitas domiciliares. Durante o deslocamento em uma escada, ele escorregou e sofreu uma queda com trauma direto na perna esquerda. Ao exame físico, observa-se deformidade no terço médio da perna, edema, dor intensa e incapacidade de movimentação. Não há ferida exposta.
+> 
+> Com base nesse cenário, analise as condutas iniciais e medidas relacionadas à saúde ocupacional que devem ser tomadas para o atendimento adequado.
+> 
+> Sobre o manejo clínico e preventivo deste caso, considere as seguintes assertivas:
+> I. A realização imediata de uma radiografia da perna é essencial para confirmar o diagnóstico de fratura.
+> II. A fratura fechada deve ser imobilizada com tala gessada temporária até a avaliação ortopédica definitiva.
+> III. É imprescindível notificar o acidente de trabalho no Sistema de Informação de Agravos de Notificação (SINAN), visto que envolve um trabalhador da APS.
+> IV. O trabalhador deve ser orientado a retornar ao trabalho assim que a dor estiver controlada, não sendo necessário afastamento prolongado.
+> V. Medidas de promoção à saúde e prevenção de novos acidentes, como treinamentos de segurança no trabalho e ergonomia, devem ser aplicadas para reduzir riscos futuros.
+> 
+> Assinale a alternativa correta:
+
+**Alternativas:**
+- [ ] (A) Somente I, II e V estão corretas.
+- [ ] (B) Somente I, II e IV estão corretas.
+- [x] (C) Somente I, II, III e V estão corretas.
+- [ ] (D) Somente II, III e IV estão corretas.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 39ª QUESTÃO
+> (ITPAC PORTO NACIONAL) Um homem de 29 anos, vítima de acidente motociclístico numa cidade de fronteira, encontra-se estendido no chão. Um médico do SAMU, após a avaliação da cena, que foi considerada segura, v inicia o atendimento. As pessoas que acionaram o serviço de relatam que a vítima encontra-se sem documento de identificação, mas sabem que ele é chamado de gringo pelos colegas de trabalho. No início da avaliação você pergunta: Senhor qual seu nome? Ele começa a conversar com você, porém em outro idioma, provavelmente espanhol. Na execução do XABCDE, você identificou que o pulso está filiforme, a pele está fria e pegajosa, o tempo de enchimento capilar é maior que 3 segundos e há instabilidade pélvica, com presença de hematoma em região de sínfise púbica. Os demais itens sem alterações.
+> 
+> Considerando os princípios do SUS e o PHTLS, defina a conduta adequada e a hipótese diagnóstica principal que demanda atendimento especializado.
+
+**Alternativas:**
+- [ ] (A) Estabilização de cintura escapular e garantir o atendimento, independentemente de sua nacionalidade ou status migratório, e transferência para um centro de trauma especializado. Provavelmente o paciente está com fratura de membros inferiores e lesões de vasos sanguíneos.
+- [ ] (B) Estabilização pélvica e informar ao paciente que o atendimento só será realizado mediante a apresentação de documentos e comprovação de residência no Brasil. Provavelmente o paciente apresenta fratura de pelve com lesões de vasos sanguíneos.
+- [ ] (C) Estabilização de Membros Inferiores e repassar o atendimento do paciente para a equipe de segurança, uma vez que ele está sem documentos e aguardar a regularização de sua situação antes de transferir o paciente. Provavelmente o paciente está com fratura de estruturas de cintura escapular com lesões de vasos sanguíneos.
+- [x] (D) Estabilização pélvica e garantir o atendimento, independentemente de sua nacionalidade ou status migratório, e transferência para um centro de trauma especializado. Provavelmente o paciente apresenta fratura de pelve com lesões de vasos sanguíneos.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa D**
+</details>
+
+---
+
+### 40ª QUESTÃO
+> (FIPGUANAMBI) Um recém-nascido de 18 horas de vida é trazido ao pronto-socorro por apresentar icterícia progressiva. Ele nasceu com 38 semanas e 1 dia de parto natural domiciliar. Ao exame físico, nota-se icterícia, zona 2 de Kramer. O histórico obstétrico da mãe revela que ela é grupo sanguíneo A-, sendo sua segunda gestação. A mãe realizou apenas 2 consultas de pré-natal e a amamentação foi iniciada nas primeiras horas de vida.
+> 
+> Selecione a alternativa que descreve os principais exames que devem ser solicitados para este recém-nascido.
+
+**Alternativas:**
+- [ ] (A) Bilirrubina total e frações, hemograma, reticulócitos, tipo sanguíneo (Rh) e teste do eluato.
+- [x] (B) Bilirrubina total e frações, hemograma, reticulócitos, tipo sanguíneo (ABO e Rh) e Coombs direto.
+- [ ] (C) Bilirrubina total, hemograma, reticulócitos, tipo sanguíneo (Rh) e teste do eluato.
+- [ ] (D) Bilirrubina total, hemograma, reticulócitos, tipo sanguíneo (ABO) e Coombs indireto.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 41ª QUESTÃO
+> (AFYA PALMAS) Paciente masculino, 60 anos, comparece ao ambulatório para avaliação de sintomas urinários que vêm se agravando nos últimos meses. Ele relata jato urinário fraco, dificuldade para iniciar a micção, sensação de esvaziamento incompleto da bexiga e necessidade de urinar várias vezes à noite (noctúria). Nega hematúria ou perda de peso recente. Ao exame físico, próstata aumentada ao toque retal, sem nodulações palpáveis. O paciente já realizou exames laboratoriais, com PSA total de 3,5 ng/mL (normal até 4,0 ng/mL para sua faixa etária) e ultrassonografia que mostrou volume prostático de 40 cm³, sem lesões suspeitas.
+> 
+> Qual é a melhor conduta inicial para o manejo deste paciente no ambulatório?
+
+**Alternativas:**
+- [ ] (A) Iniciar alfa bloqueador para alívio dos sintomas urinários.
+- [x] (B) Iniciar terapia com inibidor da 5-alfa redutase para reduzir o volume prostático.
+- [ ] (C) Realizar biópsia prostática devido aumento da próstata.
+- [ ] (D) Indicar prostatectomia radical como tratamento definitivo.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 42ª QUESTÃO
+> (AFYA CRUZEIRO DO SUL) Um paciente deu entrada no pronto-socorro, sendo identificado inicialmente apenas como J.K., foi vítima de um acidente de trânsito e chegou ao pronto-socorro com múltiplos traumas. Apresenta sinais de múltiplas fraturas, ferimento na cabeça e possíveis lesões internas. O paciente não fala português e não apresenta nenhum documento de identificação no momento.
+> 
+> Selecione a alternativa correta quanto a abordagem que equipe deverá adotar.
+
+**Alternativas:**
+- [ ] (A) Negar atendimento ao paciente, até que a embaixada ou consulado do país de origem forneça informações e os documentos necessários para registro hospitalar.
+- [x] (B) Realizar a abordagem inicial, solicitar o tradutor para uma melhor comunicação e seguir os protocolos padrão de atendimento ao politrauma, sem considerar a imigração do paciente.
+- [ ] (C) Solicitar a busca dos documentos do paciente e aguardar para iniciar o atendimento, devido ao risco de possíveis implicações legais caso atenda um estrangeiro sem identificação.
+- [ ] (D) Encaminhar o paciente para uma unidade hospitalar privada, sendo que o SUS não cobre o atendimento de pessoas estrangeiras sem documentos de identificação.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 43ª QUESTÃO
+> (FMIT) Uma adolescente de 15 anos é encaminhada ao ambulatório de psiquiatria com diagnóstico de ansiedade. A mãe diz que se cobra muito, que “sempre gostou de tirar 10 nas provas”. Ela diz que já era mais ansiosa, mas que, nesse último ano, vem notando piora da ansiedade e queda no rendimento escolar. Tem repetido alguns comportamentos e falas, toma vários banhos ao dia e lava tanto as mãos que chega a ferir. A adolescente relata que: “desde que descobri numa aula de biologia o quanto de bactérias tem por aí, não paro de pensar nisso”.
+> 
+> Qual o diagnóstico provável para esta paciente?
+
+**Alternativas:**
+- [ ] (A) Transtorno de pânico.
+- [x] (B) Transtorno obsessivo compulsivo.
+- [ ] (C) Fobia social.
+- [ ] (D) Transtorno de ansiedade generalizada.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 44ª QUESTÃO
+> (AFYA CZS) Gestante de 37 anos, G2P1A0, idade gestacional de 11 semanas, portadora de hipertensão arterial há quatro anos e obesidade (IMC 32), é atendida em Unidade Básica de Saúde (UBS). A paciente relata que fazia uso de enalapril 10 mg ao dia, mas o suspendeu há duas semanas, quando recebeu o diagnóstico da gravidez.
+> 
+> Nesse contexto, analise as afirmativas abaixo sobre a hipertensão na gestação.
+> I. Trata-se de hipertensão gestacional.
+> II. A suspensão de medicação anti-hipertensiva é mesmo necessária, visto que o enalapril não pode ser utilizado na gestação. Pode ser substituído por metildopa.
+> III. A meta para o nível pressórico diastólico da paciente é 95 mmHg.
+> IV. A paciente tem indicação de uso de ácido acetilsalicílico (AAS) 100 mg/dia, à noite, iniciado antes da 16ª semana de gestação até 36 semanas.
+> 
+> É correto o que se afirma apenas em:
+
+**Alternativas:**
+- [x] (A) II e IV.
+- [ ] (B) I e II.
+- [ ] (C) III e IV.
+- [ ] (D) I e III.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 45ª QUESTÃO
+> (FASA VIC) Uma gestante de 30 anos, no terceiro trimestre de gestação (32 semanas), foi vítima de um acidente automobilístico com impacto frontal. Ela foi levada ao pronto-socorro com queixas de dor abdominal difusa e redução dos movimentos fetais desde o trauma. Durante a avaliação inicial, apresenta sinais vitais estáveis, sem evidências de sangramento externo ou fraturas aparentes. Ao exame físico, o abdome está doloroso à palpação, sem sinais de defesa, mas com dor à palpação profunda no quadrante inferior direito. A ultrassonografia inicial sugere líquido livre na cavidade abdominal e diminuição da vitalidade fetal (batimentos cardíacos fetais em 90 bpm). A equipe médica deve decidir o próximo passo no manejo dessa paciente.
+> 
+> Com base no quadro clínico e na prioridade de avaliação da vitalidade fetal, qual deve ser a conduta mais adequada para o manejo imediato desta gestante?
+
+**Alternativas:**
+- [ ] (A) Iniciar ressuscitação com cristaloides e monitoramento fetal contínuo, seguido de avaliação cirúrgica de urgência para exploração laparotômica devido à suspeita de lesão abdominal.
+- [ ] (B) Solicitar tomografia computadorizada abdominal e aguardar os resultados para determinar a necessidade de intervenção cirúrgica, priorizando a estabilização materna.
+- [ ] (C) Realizar ultrassonografia Doppler e solicitar eletrocardiograma fetal para monitorar a vitalidade fetal antes de qualquer intervenção.
+- [ ] (D) Realizar cesariana de emergência imediatamente, dado o sofrimento fetal evidente, independente das condições maternas.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+### 46ª QUESTÃO
+> (AFYA CZS) Um homem de 25 anos procura atendimento devido a episódios recorrentes de humor altamente variável. Ele relata períodos de extrema euforia, onde dorme apenas duas horas por noite, se sente invencível, e inicia inúmeros projetos sem concluí-los. Esses episódios são seguidos por períodos de profunda tristeza, falta de interesse em atividades antes prazerosas e pensamentos de inutilidade. Durante esses períodos, ele também apresenta irritabilidade intensa e reações desproporcionais a eventos estressantes. Tem dificuldade em manter relacionamentos estáveis e frequentemente sente medo intenso de abandono.
+> 
+> Assinale qual a alternativa correta para o diagnóstico deste caso clínico.
+
+**Alternativas:**
+- [ ] (A) Transtorno Bipolar II.
+- [ ] (B) Transtorno de Personalidade Antissocial.
+- [ ] (C) Transtorno Bipolar I.
+- [ ] (D) Transtorno de Personalidade Borderline.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 47ª QUESTÃO
+> (AFYA PARAÍBA) Imagine que uma comunidade costeira foi severamente afetada pela passagem de um furacão. Após a tempestade, equipes de emergência são acionadas para realizar o atendimento às múltiplas vítimas de um deslizamento de terra que ocorreu em uma área residencial, onde várias casas foram danificadas, aumentando a probabilidade de haver dezenas de pessoas feridas.
+> 
+> Descrição do Cenário: Durante a resposta inicial, a equipe de busca e resgate encontra o seguinte:
+> Vítima 1: Um homem de 35 anos, inconsciente, preso sob os escombros. Ele apresenta sinais de trauma craniano e está com a respiração irregular.
+> Vítima 2: Uma mulher de 28 anos, com fraturas expostas na perna e sinais vitais instáveis. Ela está consciente, mas em estado de pânico.
+> Vítima 3: Um adolescente de 16 anos, que sofreu apenas contusões leves, mas está visivelmente abalado emocionalmente e apresenta dificuldades para respirar devido ao estresse.
+> Vítima 4: Uma idosa de 70 anos, com um histórico de doenças cardíacas, que se queixa de dor no peito e apresenta pressão arterial baixa.
+> 
+> Diante desse cenário e com base na triagem de múltiplas vítimas e estabilização inicial, qual das seguintes abordagens é mais adequada para categorizar o atendimento às vítimas e comunicar informações difíceis?
+
+**Alternativas:**
+- [ ] (A) Priorizar o atendimento à vítima inconsciente, deixando as demais para um segundo momento, e comunicar as más notícias aos familiares de forma técnica, para evitar alarmá-los.
+- [ ] (B) Realizar a triagem com base no sistema de cores, priorizando o homem inconsciente e a idosa com dor no peito, e informar às famílias sobre a gravidade das lesões de maneira clara e empática.
+- [ ] (C) Concentrar-se em transportar rapidamente todas as vítimas ao hospital, sem uma prioridade de triagem, e comunicar aos familiares que "tudo ficará bem" para evitar pânico.
+- [ ] (D) Dividir a equipe em dois grupos: um para cuidar das vítimas e outro para comunicar as más notícias, utilizando uma abordagem direta, focando nas condições médicas.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa B**
+</details>
+
+---
+
+### 48ª QUESTÃO
+> (FESAR) Um homem de 35 anos procura o ambulatório com queixa de flutuações intensas de humor, que alternam entre períodos de euforia, irritabilidade e depressão profunda. Relata episódios de impulsividade, como gastos excessivos e relações sexuais desprotegidas, além de dificuldades no relacionamento interpessoal, caracterizados por instabilidade e idealização/desvalorização das pessoas.
+> 
+> Diante desse quadro clínico, analise a conduta mais adequada.
+
+**Alternativas:**
+- [ ] (A) Iniciar tratamento com antidepressivo.
+- [ ] (B) Solicitar tomografia computadorizada de crânio.
+- [x] (C) Iniciar tratamento com estabilizador de humor.
+- [ ] (D) Solicitar eletroencefalograma.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 49ª QUESTÃO
+> (AFYA CSZ) Homem de 78 anos, com nove anos de escolaridade, comparece acompanhado da esposa para atendimento médico. Durante a consulta o paciente se queixa que há seis meses vem esquecendo fatos recentes, como onde guarda o dinheiro ou as chaves da casa. Paciente nega alterações de comportamento e perda de funcionalidade, sendo independente para as atividades da vida diária (AVD) instrumentais e básicas, informações que são confirmadas pela esposa. Possui como antecedentes pessoais hipertensão com bom controle, em uso de losartana 100mg/dia. Mini-Exame do Estado Mental (MEEM): 21 pontos.
+> 
+> Assinale a alternativa correta sobre o diagnóstico do paciente.
+
+**Alternativas:**
+- [ ] (A) Doença de Alzheimer.
+- [ ] (B) Depressão maior.
+- [x] (C) Comprometimento cognitivo leve.
+- [ ] (D) Delirium.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa C**
+</details>
+
+---
+
+### 50ª QUESTÃO
+> (UNITPAC) Um paciente de 45 anos é admitido no hospital após sofrer queimaduras significativas em um acidente industrial. Ele apresenta queimaduras que cobrem 35% da superfície corporal, incluindo face, tórax e membros superiores. As lesões variam em profundidade, com áreas que apresentam eritema, bolhas e algumas regiões esbranquiçadas indolores. Além disso, há sinais de inalação de fumaça, e o paciente relata dor intensa nas áreas afetadas.
+> 
+> Assinale a alternativa que melhor indica a conduta inicial para o manejo do paciente e as inferências corretas sobre situações semelhantes às descritas.
+
+**Alternativas:**
+- [x] (A) No caso do paciente do enunciado, deve-se primeiramente priorizar a avaliação e proteção das vias aéreas devido à suspeita de inalação de fumaça, iniciando também ressuscitação volêmica com soluções cristaloides usando a fórmula de Parkland. Caso houvesse lesão por inalação, a conduta seria ofertar oxigênio a 100% na pressão atmosférica predominante por 6 horas, com oxigênio hiperbárico reservado para pacientes com nível de carboxi-hemoglobina acima de 30% ou com alterações neurológicas.
+- [ ] (B) A conduta inicial para o paciente em questão é aplicar compressas frias nas áreas queimadas para reduzir a temperatura e evitar a progressão das lesões. Em pacientes queimados, como no caso descrito no enunciado, a lesão por inalação é uma causa importante de insuficiência respiratória. Nessas situações, e, a princípio, as radiografias de tórax são geralmente normais.
+- [ ] (C) No caso, primeiramente deve-se aplicar pomadas tópicas nas áreas queimadas e aguardar a cicatrização das lesões. Entidade que pode sobrevir neste paciente é o envenenamento por monóxido de carbono associado à lesão por inalação. O diagnóstico da lesão por inalação é mais bem feito pela anamnese e pelo achado de vibrissas nasais chamuscadas e restos carbonáceos na boca e na faringe no exame clínico.
+- [ ] (D) No caso descrito deveríamos iniciar imediatamente ressuscitação volêmica com soluções cristaloides usando a fórmula de Parkland e desbridamento imediato das áreas queimadas. Sabe-se que a lesão térmica por qualquer mecanismo está associada a lesão gradativa dos tecidos moles. À medida que as lesões térmicas aumentam além de cerca de 15% da superfície corporal, ocorre um extravasamento capilar difuso.
+
+<details>
+<summary>Gabarito</summary>
+**Alternativa A**
+</details>
+
+---
+
+Claro! Analisei as 50 questões da prova e agrupei os temas para fornecer um resumo claro dos assuntos abordados, com a respectiva quantidade de questões por tema.
+
+Aqui está a sumarização dos assuntos que caíram na prova:
+
+1.  **Psiquiatria (9 questões)**
+    *   Transtornos de Humor (Bipolar e diferenciais): 3 questões
+    *   Dependência Química (principalmente álcool e suas complicações): 3 questões
+    *   Transtorno Obsessivo-Compulsivo (TOC): 3 questões
+
+2.  **Pediatria (10 questões)**
+    *   Onco-hematologia Pediátrica (suspeita de leucemia): 3 questões
+    *   Infectologia Pediátrica (meningites, linfonodomegalia reacional): 3 questões
+    *   Neonatologia (icterícia neonatal, incompatibilidade Rh/ABO): 3 questões
+    *   Neurologia Pediátrica (convulsão febril): 1 questão
+
+3.  **Emergência e Trauma (7 questões)**
+    *   Manejo de Vias Aéreas (intubação, lesão por inalação): 3 questões
+    *   Manejo do Paciente Queimado: 2 questões
+    *   Trauma Torácico (pneumotórax): 1 questão
+    *   Triagem em Múltiplas Vítimas: 1 questão
+
+4.  **Ginecologia e Obstetrícia (6 questões)**
+    *   Patologias da Gestação (sangramento de 1º trimestre, hipertensão crônica): 3 questões
+    *   Trauma e Emergências na Gestação: 2 questões
+    *   Violência Doméstica na Gestação: 1 questão
+
+5.  **Saúde Coletiva, Ética e Medicina do Trabalho (5 questões)**
+    *   Vigilância e Notificação Compulsória (Dengue, Acidente de trabalho): 3 questões
+    *   Princípios do SUS e Ética Médica (atendimento a estrangeiros, judicialização): 2 questões
+
+6.  **Neurologia do Adulto (4 questões)**
+    *   Acidente Vascular Cerebral (AVC) Hemorrágico: 1 questão
+    *   Epilepsia (Estado de Mal Convulsivo): 1 questão
+    *   Cefaleia (Migrânea): 1 questão
+    *   Semiologia Neurológica (sinais meníngeos): 1 questão
+
+7.  **Reumatologia e Ortopedia (4 questões)**
+    *   Osteoartrite: 3 questões
+    *   Trauma Ortopédico (entorse de tornozelo): 1 questão
+
+8.  **Geriatria e Transtornos Cognitivos (3 questões)**
+    *   Doença de Alzheimer e Comprometimento Cognitivo Leve.
+
+9.  **Urologia (1 questão)**
+    *   Hiperplasia Prostática Benigna (HPB).
+
+10. **Oftalmologia (1 questão)**
+    *   Trauma Ocular Químico.
